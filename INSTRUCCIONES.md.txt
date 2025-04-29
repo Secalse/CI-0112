@@ -1,0 +1,4 @@
+Para correr el programa se abren los dos archivos JuegoBatalla.java y Robot.java en VisualCode.
+Antes de compilarlos, se debe abrir la carpeta Lab 2 SimuladorRobots con el comando cd de la siguiente manera: cd "C:\...\Documentos\Tarea1\CI-0112\Lab 2 SimuladorRobots" 
+Para compilarlos, es necesario convertirlo a archivo UTF-8, debido a que se trabaja con tíldes y letras ñ. Para compilarlos de hace de la siguiente manera: javac -encoding UTF-8 JuegoBatalla.java y javac -encoding UTF-8 Robot.java.
+Para correrlo se usa java JuegoBatalla, el cual va a correr el programa principal del Juego de Batallas.
